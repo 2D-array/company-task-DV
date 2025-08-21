@@ -16,4 +16,15 @@ A modern, interactive dashboard for data visualization with intelligent filterin
 - **Backend**: Node.js, Express
 - **Database**: JSON file (jsondata.json)
 
-## Project Structure
+## Setup project to run
+-cd backend
+-npm install
+
+-cd ../frontend
+-npm install
+
+-cd backend
+-node importData.js
+
+-run backend with - node server.js
+-run frontend with - npm run dev
