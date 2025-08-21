@@ -30,4 +30,4 @@ A modern, interactive dashboard for data visualization with intelligent filterin
 -run frontend with - npm run dev
 
 
-![Dashboard Screenshot](pageview.jpg)
+![Dashboard Screenshot](pageview.png)
