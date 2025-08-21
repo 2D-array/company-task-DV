@@ -28,3 +28,6 @@ A modern, interactive dashboard for data visualization with intelligent filterin
 
 -run backend with - node server.js
 -run frontend with - npm run dev
+
+
+![Dashboard Screenshot](pageview.jpg)
